@@ -70,7 +70,10 @@ button{
 }
 a{
 	text-decoration: none;
+	color:blue;
 }
+a:hover{
+	color:red;
 body{
 	 background: lightgray;
 }
