@@ -1,0 +1,55 @@
+
+#signup{
+	border:1px solid;
+	width: 25%;
+	margin-left:38%;
+	padding:2%;
+}
+#footer{
+	text-align: center;
+	width:70%;
+	margin-left: 18%;
+}
+
+.a{
+	padding:1%;
+}
+
+.b{
+	text-align: center;
+}
+.c{
+	text-align: center;
+	font-size:0.9rem;
+}
+
+input{
+	width: 98%;
+	padding:2%;
+}
+.d{
+	text-align: center;
+
+}
+.e{
+	text-align: center;
+	margin-left: 3%;
+}
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+
+.navbar a {
+  float: right;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a: hover {
+  background-color: #000;
+}
