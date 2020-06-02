@@ -45,6 +45,7 @@ text-align: center;
 .m{
 	float: left;
 	padding-left:4%;
+	display:block;
 }
 .navbar {
   width: 100%;
