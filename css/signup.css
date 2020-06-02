@@ -1,5 +1,6 @@
 
 #signup{
+        border:1px solid;
 	width:50%;
 	margin-left:25%;
 	padding:2%;
@@ -23,7 +24,7 @@
 }
 
 input{
-	width: 98%;
+	width: 95%;
 	padding:2%;
 }
 .d{
